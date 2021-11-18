@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-2nd year student in computer science at Ariel University.
+### I'm elad sezanayev!
+### currently 2nd year student in computer science at Ariel University.
 
 <!--
 - 🔭 I’m currently working on ...
