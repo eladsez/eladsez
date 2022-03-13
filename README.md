@@ -20,6 +20,7 @@
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="C"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C" width="35" height="40"/>  </a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="html"> <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="html" width="40" height="40"/>  </a>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://atom.io/" target="atom"> <img src="https://user-images.githubusercontent.com/66886354/147272833-2de6deae-aa5c-4072-8994-6274f3d92392.png" alt="atom" width="40" height="40"/></a>
