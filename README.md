@@ -47,11 +47,10 @@
     <tbody>
       <tr>
         <td>
-          <a href='https://github.com/eladsez/Walk2Talk.git'></a>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY?playlist=tgbNymZ7vqY&loop=1"></iframe>
+           <a href="https://github.com/eladsez/Walk2Talk.git"><img src="https://imgur.com/a/gQb56mn" style="width: 50%; height: 50%"></img></a>
         </td>
         <td>
-          <a href="https://github.com/achiyazigi/BERT.git"><img src="https://imgur.com/D5PWCUw.gif" style="width: 50%; height: 50%"></img></a>
+          <a href="https://github.com/eladsez/Walk2Talk.git"><img src="https://imgur.com/a/gQb56mn" style="width: 50%; height: 50%"></img></a>
         </td>
       </tr>
     </tbody>
