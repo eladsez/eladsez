@@ -33,3 +33,27 @@
 <a href="https://www.wireshark.org/" target="wireshark"> <img src="https://user-images.githubusercontent.com/66886354/147272381-c39e5aa2-3fd9-4a4d-ab9d-4c4c224b29ab.png" alt="wireshark" width="40" height="40"/> 
 <a href="https://www.docker.com/" target="docker"> <img src="https://user-images.githubusercontent.com/66886354/147595427-103affab-641e-46ee-9986-ca534677e87d.png" alt="docker" width="40" height="40"/> 
 </div>
+  
+  
+<div display='inline-block'>
+  <h3>Take a look at my last projects:</h3>
+  <table>
+    <thead align='center'>
+      <tr>
+        <td>Walk2Talk</td>
+        <td>Tuning Aleph Bert - sentence completion</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href='https://github.com/eladsez/Walk2Talk.git'>
+            <iframe width=50% height=50% src="https://www.youtube.com/embed/tgbNymZ7vqY?playlist=tgbNymZ7vqY&loop=1"></iframe></a>
+        </td>
+        <td>
+          <a href="https://github.com/achiyazigi/BERT.git"><img src="https://imgur.com/D5PWCUw.gif" style="width: 50%; height: 50%"></img></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
