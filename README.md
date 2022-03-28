@@ -35,7 +35,7 @@
 </div>
   
   
-<div display='inline-block'>
+<div display='inline-block' align="center">
   <h3>Take a look at my last projects:</h3>
   <table>
     <thead align='center'>
