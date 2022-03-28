@@ -17,7 +17,7 @@
   <table>
     <thead align='center'>
       <tr>
-        <td>Walk2Talk - reliable data transfer</td>
+        <td>Walk2Talk - my RDT chat app</td>
         <td>another project</td>
       </tr>
     </thead>
