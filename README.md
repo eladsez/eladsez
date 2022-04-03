@@ -18,7 +18,7 @@
     <thead align='center'>
       <tr>
         <td>Walk2Talk - my RDT chat app</td>
-        <td>another project</td>
+        <td>Directed-Networks</td>
       </tr>
     </thead>
     <tbody>
@@ -27,7 +27,7 @@
            <a href="https://github.com/eladsez/Walk2Talk.git"><div align="center"><img src="https://i.imgur.com/0WB9QFE.gif" style="width: 50%;               height: 50%"></div></img</a>
         </td>
         <td>
-          <a href="https://github.com/eladsez/Walk2Talk.git"><img src="https://imgur.com/a/gQb56mn" style="width: 50%; height: 50%"></img></a>
+          <a href="https://github.com/eladsez/directed-networks"><img src="https://imgur.com/a/gQb56mn" style="width: 50%; height: 50%"></img></a>
         </td>
       </tr>
     </tbody>
