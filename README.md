@@ -24,7 +24,7 @@
     <tbody>
       <tr>
         <td>
-           <a href="https://github.com/eladsez/Walk2Talk.git"><div align="center"><img src="https://i.imgur.com/0WB9QFE.gif" style="width: 50%;               height: 50%"></div></img</a>
+           <a href="https://github.com/eladsez/Walk2Talk.git"><div align="center"><img src="https://i.imgur.com/0WB9QFE.gif" style="width: 75%;               height: 75%"></div></img</a>
         </td>
         <td>
           <a href="https://github.com/eladsez/directed-networks"><div align="center"><img src="https://i.imgur.com/t00Y9bv.gif" style="width: 50%;           height: 50%"></div></img></a>
