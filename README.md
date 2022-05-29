@@ -27,14 +27,15 @@
            <a href="https://github.com/eladsez/Walk2Talk.git"><div align="center"><img src="https://i.imgur.com/0WB9QFE.gif" style="width: 75%;               height: 75%"></div></img</a>
         </td>
         <td>
-          <a href="https://github.com/eladsez/directed-networks"><div align="center"><img src="https://user-images.githubusercontent.com/81921567/170863722-d7b44c60-b4f2-422b-a5f5-6eb33079d9ff.gif" style="width: 55%;           height: 55%"></div></img></a>
+
+          <a href="https://github.com/eladsez/directed-networks"><div align="center"><img src= style="width: 55%;           height: 55%"></div></img></a>
         </td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
+[graphs](https://user-images.githubusercontent.com/81921567/170863877-41f220ea-e1a9-475e-91b0-14f2381f5d4f.gif)
 
 <div align="center">
 
