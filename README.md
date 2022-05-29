@@ -24,7 +24,7 @@
     <tbody>
       <tr>
         <td>    
-           <a href="https://github.com/eladsez/Walk2Talk.git"><div align="center"><img src="https://i.imgur.com/0WB9QFE.gif" style="width: 75%;               height: 75%"></div></img</a>
+           <a href="https://github.com/eladsez/Walk2Talk.git"><div align="center"><img src="https://i.imgur.com/0WB9QFE.gif" style="width: 75%;               height: 75%"></div></img></a>
         </td>
         <td>
 
@@ -32,8 +32,8 @@
             <div align="center">
               <img src= "https://user-images.githubusercontent.com/81921567/170863877-41f220ea-e1a9-475e-91b0-14f2381f5d4f.gif" style="width: 55%;
             height: 55%">
-              </img>
             </div>
+              </img>
           </a>
         </td>
       </tr>
