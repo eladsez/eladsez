@@ -23,11 +23,11 @@
     </thead>
     <tbody>
       <tr>
-        <td>
+        <td>    
            <a href="https://github.com/eladsez/Walk2Talk.git"><div align="center"><img src="https://i.imgur.com/0WB9QFE.gif" style="width: 75%;               height: 75%"></div></img</a>
         </td>
         <td>
-          <a href="https://github.com/eladsez/directed-networks"><div align="center"><img src="https://i.imgur.com/t00Y9bv.gif" style="width: 55%;           height: 55%"></div></img></a>
+          <a href="https://github.com/eladsez/directed-networks"><div align="center"><img src="https://user-images.githubusercontent.com/81921567/170863722-d7b44c60-b4f2-422b-a5f5-6eb33079d9ff.gif" style="width: 55%;           height: 55%"></div></img></a>
         </td>
       </tr>
     </tbody>
