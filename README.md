@@ -28,14 +28,13 @@
         </td>
         <td>
 
-          <a href="https://github.com/eladsez/directed-networks"><div align="center"><img src= style="width: 55%;           height: 55%"></div></img></a>
+          <a href="https://github.com/eladsez/directed-networks"><div align="center"><img src= "https://user-images.githubusercontent.com/81921567/170863877-41f220ea-e1a9-475e-91b0-14f2381f5d4f.gif" style="width: 55%;
+            height: 55%"></div></img></a>
         </td>
       </tr>
     </tbody>
   </table>
 </div>
-
-[graphs](https://user-images.githubusercontent.com/81921567/170863877-41f220ea-e1a9-475e-91b0-14f2381f5d4f.gif)
 
 <div align="center">
 
