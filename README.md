@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi there 👋
-### I'm a 2nd year student in computer science at Ariel University.
+### I'm a 3nd year student in computer science at Ariel University.
 📫 How to reach me: eladsez36@gmail.com
 
 >[](https://komarev.com/ghpvc/?username=eladsez&color=grey)
