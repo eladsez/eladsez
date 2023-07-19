@@ -4,6 +4,12 @@
 ### I'm a 3rd year student in computer science at Ariel University.
 📫 How to reach me: eladsez36@gmail.com
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 >[](https://komarev.com/ghpvc/?username=eladsez&color=grey)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eladsez&show_icons=true&theme=vue-dark&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
