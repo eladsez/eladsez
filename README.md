@@ -1,8 +1,7 @@
 <div align="center">
 
 ### Hi there 👋
-### I'm a 3rd year student in computer science at Ariel University.
-📫 How to reach me: eladsez36@gmail.com
+### 📫 How to reach me: eladsez36@gmail.com
 
 <!--- snake -->
 <div align="center">
