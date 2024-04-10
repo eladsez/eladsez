@@ -3,11 +3,6 @@
 ### Hi there 👋
 ### 📫 How to reach me: eladsez36@gmail.com
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 >[](https://komarev.com/ghpvc/?username=eladsez&color=grey)
 <!---
